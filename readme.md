@@ -24,3 +24,6 @@ streamlit run app.py
 1. Arayüzdeki film seçme alanından bir film başlığı seçin.
 2. "Öneri Al" butonuna tıklayın.
 3. En yakın filmleri görüntüleyin ve keyifli bir film deneyimi yaşayın!
+
+
+https://drive.google.com/file/d/1lbS-PtoCuzXXyjVbAORCKenWy6RLeBg7/view?usp=sharing
