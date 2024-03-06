@@ -26,4 +26,4 @@ streamlit run app.py
 3. En yakın filmleri görüntüleyin ve keyifli bir film deneyimi yaşayın!
 
 
-https://drive.google.com/file/d/1lbS-PtoCuzXXyjVbAORCKenWy6RLeBg7/view?usp=sharing
+https://drive.google.com/uc?export=view&id=1lbS-PtoCuzXXyjVbAORCKenWy6RLeBg7
