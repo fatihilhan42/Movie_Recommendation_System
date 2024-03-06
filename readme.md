@@ -25,5 +25,5 @@ streamlit run app.py
 2. "Öneri Al" butonuna tıklayın.
 3. En yakın filmleri görüntüleyin ve keyifli bir film deneyimi yaşayın!
 
+https://github.com/fatihilhan42/Movie_Recommendation_System/assets/63750425/f18b9b7d-f129-4166-9771-2353e242f63a
 
-[![Watch the video](thumbnail.png)](https://drive.google.com/uc?export=view&id=1lbS-PtoCuzXXyjVbAORCKenWy6RLeBg7)
